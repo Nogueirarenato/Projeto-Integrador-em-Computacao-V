@@ -1,0 +1,24 @@
+
+
+
+.charts{
+    background-color: white;
+}
+
+.container{
+    color:black;
+    margin-left: 12.5vw;
+    width: 87.5vw;
+    min-height: 100vh;
+
+}
+
+.index{
+    display: flex;
+    
+}
+
+.title{
+    margin-left: 3vw;
+    margin-top: 1vh;
+}

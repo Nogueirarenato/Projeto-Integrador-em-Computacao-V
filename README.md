@@ -6,14 +6,14 @@ Consumo elétrico residencial, monitorar para economizar.
 
 
 # Integrantes
-Bruna Michele Correia Ribeiro
-Cynthia Mayumi Watanabe Yamato 
-Dalton Sebastião Brandão 
-Felipe Ribeiro 
-Marcelo Scarponi 
-Paulo Sergio de Morais 
-Renato Nogueira da Silva 
-Ressiley Martins Bonfim  
+Bruna Michele Correia Ribeiro 
+Cynthia Mayumi Watanabe Yamato  
+Dalton Sebastião Brandão  
+Felipe Ribeiro  
+Marcelo Scarponi  
+Paulo Sergio de Morais  
+Renato Nogueira da Silva  
+Ressiley Martins Bonfim   
 
 # Curso
 Engenharia da Computação

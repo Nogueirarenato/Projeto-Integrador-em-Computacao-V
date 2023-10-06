@@ -17,9 +17,12 @@ const DashBoard= () => {
             <h1 className='title'>Dashboard</h1>
             <div>
             <div className='charts'>
-            <div className='barchart'><BarChart></BarChart></div>
+            <div className='barchart'><LineChart></LineChart></div>
+            <div className="container"><div><label htmlFor="datas">Selecione o Dia</label></div>
+            <div><input type="date" name="datas" id="" /></div></div>
             <DoughnutChart></DoughnutChart>
-            <LineChart></LineChart>
+            
+            <BarChart></BarChart>
             <PieChart></PieChart>
             </div>
             </div>

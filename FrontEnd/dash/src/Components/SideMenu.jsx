@@ -16,7 +16,7 @@ import '../Styles/SideMenu.css'
       <i class="fas fa-times" id="cancel" style={{display: 'none'}}> </i>
     </label>   
     <div class="sidebar">
-      <header>Grupo 01</header>
+      <header>Grupo 003</header>
       <Link to="/" class="active">
         <i class="fas fa-chart-bar"></i>
         <span>Dashboard</span>
@@ -27,8 +27,8 @@ import '../Styles/SideMenu.css'
       </Link>
         
       <Link to="/temperatura">
-        <i class="fas fa-temperature-low"></i>
-        <span>Temperaturas</span>
+        <i class="fas fa-plug"></i>
+        <span>Consumo Total</span>
       </Link>
       <Link to="/todosacionamentos">
          <i class="fas fa-calendar"></i>

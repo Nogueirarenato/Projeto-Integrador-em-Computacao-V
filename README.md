@@ -6,7 +6,7 @@ Consumo elétrico residencial, monitorar para economizar.
 
 
 # Integrantes
-Bruna Michele Correia Ribeiro  
+Bruna Michele Correia Ribeiro 
 Cynthia Mayumi Watanabe Yamato  
 Dalton Sebastião Brandão  
 Felipe Ribeiro  

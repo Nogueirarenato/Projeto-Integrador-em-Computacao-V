@@ -14,7 +14,8 @@ const DashBoard= () => {
            <div className='index'>
            <div className='sideMenu'> <SideMenu></SideMenu></div>
             <div className='container'>
-            <h1 className='title'>Dashboard</h1>
+            <h1 className='title'>Dashboard - Consumo elétrico residencial, monitorar para economizar.
+</h1>
             <div>
             <div className='charts'>
             <div className='barchart'><LineChart></LineChart></div>

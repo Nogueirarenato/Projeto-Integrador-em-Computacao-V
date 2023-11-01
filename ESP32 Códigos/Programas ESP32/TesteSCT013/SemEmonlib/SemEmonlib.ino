@@ -20,10 +20,10 @@ void setup() {
   LCD.init();
   LCD.backlight();
   LCD.setCursor(0, 0);
-  LCD.print("Ola Mundo");
+  LCD.print("Proj. Integrador");
   LCD.setCursor(0, 1);
-  LCD.print("Univesp ");
- delay(1000);
+  LCD.print("em Computacao V");
+ delay(10000);
  LCD.clear();
 
 }
@@ -48,20 +48,34 @@ memoria2 = 0;
   }
 
   
-  double corrente = 141.42 *(memoria - 1963.00) /(4096-1963.00)/1.4142135623730;
+  double corrente = 141.42 *(memoria - 1967.00) /(4096-1967.00)/1.4142135623730;
   double corrente2 = 141.42 *(memoria2 - 1950.00) /(4096-1950.00)/1.4142135623730;
   LCD.clear();
   LCD.setCursor(0,0);
   LCD.print("Cor. = ");
   LCD.print(corrente);
-  //LCD.print(memoria);
+ // LCD.print(memoria);
   LCD.print(" A");
   LCD.setCursor(0,1);
   LCD.print("Cor. = ");
   LCD.print(corrente2);
   //LCD.print(memoria2);
   LCD.print(" A");
-  delay(1000);
-  
+  delay(5000);
+  LCD.clear();
+  LCD.setCursor(0,0);
+  LCD.print("Calculando");
+  delay(50);
+  LCD.print(".");
+  delay(50);
+  LCD.print(".");
+  delay(50);
+  LCD.print(".");
+  delay(50);
+  LCD.print(".");
+delay(50);
+  LCD.print(".");  
+delay(50);
+    
   
   }
